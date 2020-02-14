@@ -1,0 +1,1 @@
+a:2:{i:0;a:3:{s:9:"file_name";s:10:"index.html";s:4:"code";i:200;s:7:"is_done";b:1;}i:1;a:8:{s:7:"is_done";b:0;s:9:"file_name";s:15:"page_id_69.html";s:4:"code";i:200;s:12:"original_url";s:38:"https://strikeresell.tools/?page_id=69";s:9:"final_url";s:45:"https://strikeresell.tools/?post_type=product";s:5:"level";i:1;s:7:"try_nbr";i:1;s:13:"deep_php_file";s:0:"";}}
